@@ -5,6 +5,7 @@
 !gradle/wrapper/gradle-wrapper.jar
 target/
 !.mvn/wrapper/maven-wrapper.jar
+HELP.md
 
 ######################################################################
 ### STS ###
@@ -44,7 +45,7 @@ nbdist/
 *.xml.versionsBackup
 !*/build/*.java
 !*/build/*.html
-!*/build/*.xml
+
 
 ######################################################################
 ### admin-web ###
